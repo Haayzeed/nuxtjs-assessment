@@ -45,4 +45,7 @@ export default {
   build: {
     transpile: [],
   },
+  generate: {
+    fallback: true
+  }
 }
