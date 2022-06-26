@@ -48,5 +48,5 @@ export default {
   generate: {
     fallback: true
   },
-  ssr: true
+  target: 'static',
 }
