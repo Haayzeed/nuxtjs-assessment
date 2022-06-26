@@ -47,5 +47,6 @@ export default {
   },
   generate: {
     fallback: true
-  }
+  },
+  ssr: true
 }
